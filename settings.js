@@ -11,15 +11,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916378704507"
-global.ownername = "AASHISH"
-global.ytname = "YT: SHADOW STARCORE"
-global.socialm = "GitHub: dark-tech-zone"
-global.location = "India, Delhi, city"
+global.ownernomer = "2349038163213"
+global.ownername = "KING"
+global.ytname = "YT: ..."
+global.socialm = "GitHub: KingHarry001"
+global.location = "Lagos, Nigeria"
 
-global.ownernumber = '916378704507'  //creator number
-global.ownername = 'AASHISH' //owner name
-global.botname = 'AASHISH ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '2349038163213'  //creator number
+global.ownername = 'KING' //owner name
+global.botname = 'DOMINATRIX ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -33,7 +33,7 @@ global.wm = "Tech God Bot Inc."
 global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = ['-']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
